@@ -4,4 +4,3 @@ Na página existe uma tag textarea para entrada e outra para saída de textos. O
 
 Foi utilizado para criptografar e descriptografar a linguagem de programação Javascript, a página foi desenvolvida com HTML e CSS partindo de um layout de referência da Alura.
 
-#challengeonedecodificador2
